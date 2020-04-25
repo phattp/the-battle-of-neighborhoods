@@ -1,0 +1,67 @@
+Borough,Neighborhood,ID,Name,Likes,Rating,Tips
+Bronx,Woodlawn,4dc5d0b47d8b14fb463525e9,Accent Thai,14,8.4,4
+Bronx,Parkchester,5585c948498e0bd8a8a706f1,Thai Cuisine,17,7.5,1
+Bronx,Van Nest,5585c948498e0bd8a8a706f1,Thai Cuisine,17,7.5,1
+Bronx,North Riverdale,4dc5d0b47d8b14fb463525e9,Accent Thai,14,8.4,4
+Bronx,Pelham Bay,4b4c90d3f964a52046b626e3,Honey's Thai Pavilion,19,7.2,28
+Brooklyn,Crown Heights,596ffbcadee77066f36be772,Ruammit Thai,24,8.5,5
+Brooklyn,Kensington,54daa265498e58e310cae373,Sawasde Thai Cooking,19,8.7,5
+Brooklyn,Kensington,5bbf7c31418686002c49a6a1,Thai Farm Kitchen,34,8.9,13
+Brooklyn,Kensington,4b36a0f5f964a5207b3925e3,To Be Thai,18,8.1,16
+Brooklyn,Prospect Heights,57117904498eea6297e41d0a,Muse,42,8.1,7
+Brooklyn,Brooklyn Heights,476f8da1f964a520044d1fe3,Lantern Thai Kitchen,155,7.8,72
+Brooklyn,Carroll Gardens,59985da3da5e5606a926b53d,Ugly Baby,299,8.7,77
+Brooklyn,Carroll Gardens,5a959bf0646e38268740806b,Boran,27,8.5,9
+Brooklyn,Gowanus,59985da3da5e5606a926b53d,Ugly Baby,299,8.7,77
+Brooklyn,Gowanus,5a959bf0646e38268740806b,Boran,27,8.5,9
+Brooklyn,Clinton Hill,54ea1fc3498e51bac940c79e,Thaiholic,70,8.7,28
+Brooklyn,Clinton Hill,4a709d9ff964a520f6d71fe3,Thai 101,50,8.1,38
+Brooklyn,Downtown,5c56083dc58ed7002c3255d0,Charm Kao,39,9.0,7
+Brooklyn,Boerum Hill,5c56083dc58ed7002c3255d0,Charm Kao,39,9.0,7
+Brooklyn,Prospect Lefferts Gardens,5d4f31a92ada380008a49b7f,Amy Thai Bistro,11,8.8,7
+Manhattan,Chinatown,5cc4e9d0c876c8002c3010cb,Wayla,126,9.2,26
+Manhattan,East Harlem,55a85a66498e68da40bc7212,Malii,20,8.6,9
+Manhattan,East Harlem,5a68fb506336be407ef635ab,Bangklyn East Harlem,6,8.0,2
+Manhattan,East Harlem,5303fc3c11d250deaaf46b56,Absolute Thai Restaurant,7,8.1,4
+Manhattan,Yorkville,57f81d9e498e82d3766ccce8,PuTawn Local Thai Kitchen,26,8.9,7
+Manhattan,Lenox Hill,52be229211d2aabfe6f24d20,Up Thai,616,9.1,160
+Manhattan,Lenox Hill,5997796d603d2a7019b8c58e,THEP Thai Restaurant,82,9.0,22
+Manhattan,Upper West Side,42951180f964a52045241fe3,Land Thai Kitchen,341,8.4,146
+Manhattan,Little Italy,5e46e2ec5791a10008c55728,Thai Diner,15,8.6,3
+Manhattan,Little Italy,516863b1011ca6684e37a88f,Uncle Boons,1016,9.1,330
+Manhattan,Manhattan Valley,49dfbfabf964a52009611fe3,Thai Market,393,8.2,124
+Queens,Woodside,3fd66200f964a5204ef11ee3,SriPraPhai,766,8.9,357
+Queens,Woodside,4a7f6626f964a520e8f31fe3,Thailand's Center Point,23,7.6,21
+Queens,Woodside,4bedd3e8a40fc928d193820c,Sweet Basil Thai,16,7.6,13
+Queens,Woodside,57608fb1498e9796802dc2b4,Jaew Hon,22,8.5,3
+Queens,Jackson Heights,5424a7a2498ec9a9cdb36746,Black Thai,25,8.6,7
+Queens,Jackson Heights,560f2343498e6d1819390cb4,Sompong Thai,10,7.8,2
+Queens,Elmhurst,52f693e6498ed9d2a3fbad75,Eim Khao Mun Kai Elmhurst อิ่ม ข้าวมันไก่เอ็มเฮิสท์,98,8.5,26
+Queens,Elmhurst,5abad6379de23b5eeb077b04,Lamoon,32,8.1,8
+Queens,Elmhurst,56e210f7cd102122a9fb1d1b,Dek Sen,32,8.4,3
+Queens,Elmhurst,4ad5173cf964a520c90121e3,Chao Thai ร้านชาวไทย,83,8.2,48
+Queens,Elmhurst,4b26f895f964a5209d8324e3,Ayada Thai,290,9.0,124
+Queens,Elmhurst,593f6541123a19687791b390,Hug Esan NYC,22,8.7,3
+Queens,Elmhurst,531372e9498ebd3be2888afc,Khao Kang ข้าวแกง,64,8.3,23
+Queens,Elmhurst,4ad15d63f964a5203ede20e3,Spicy Shallot,94,8.1,59
+Queens,Elmhurst,53af884e498e0a4a4943f670,Kitchen 79,63,8.3,12
+Queens,Forest Hills,46b1ef0df964a520a0491fe3,Bangkok Cuisine,61,8.5,33
+Queens,South Ozone Park,505e482fe4b0ad0a3ed7c2e8,Nanking Asian fusion,30,8.9,12
+Queens,Bayside,4b799160f964a52001022fe3,Erawan Thai Cuisine,46,7.9,18
+Queens,Auburndale,49fdbd6cf964a520256f1fe3,BKNY Thai Restaurant,162,8.6,75
+Queens,Little Neck,548101bd498ea6af4be43c86,Krung Tep,27,8.9,8
+Queens,Fresh Meadows,5ae3a6fda30619002c1490a9,Kin'd Thai,14,8.2,1
+Queens,Hollis,5ae3a6fda30619002c1490a9,Kin'd Thai,14,8.2,1
+Queens,Rochdale,505e482fe4b0ad0a3ed7c2e8,Nanking Asian fusion,30,8.9,12
+Queens,Holliswood,5ae3a6fda30619002c1490a9,Kin'd Thai,14,8.2,1
+Queens,Forest Hills Gardens,46b1ef0df964a520a0491fe3,Bangkok Cuisine,61,8.5,33
+Staten Island,Port Richmond,4b7c698af964a520bc912fe3,Forest Thai Cuisine,13,7.7,20
+Staten Island,Mariner's Harbor,4b7c698af964a520bc912fe3,Forest Thai Cuisine,13,7.7,20
+Staten Island,Westerleigh,4b7c698af964a520bc912fe3,Forest Thai Cuisine,13,7.7,20
+Staten Island,Bulls Head,51734440e4b093690645e66b,Empire East Richmond Ave,7,7.3,5
+Staten Island,Elm Park,4b7c698af964a520bc912fe3,Forest Thai Cuisine,13,7.7,20
+Queens,Jamaica Hills,51cd0030498e1874e3954776,Amina Thai,12,7.0,4
+Manhattan,Sutton Place,4b19ae35f964a520d9e123e3,Luscious Thai,27,8.0,20
+Queens,Hunters Point,49cfd074f964a520ce5a1fe3,Tuk Tuk,251,8.4,118
+Manhattan,Turtle Bay,548cb1a2498e7cd8fd9f98ce,Herbs Thai Bistro,41,8.1,14
+Manhattan,Tudor City,5424bb1b498ecea0c85b6b43,Lan Larb Midtown,79,8.5,31
